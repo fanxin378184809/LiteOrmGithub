@@ -64,7 +64,7 @@ LiteOrm是android上的一款数据库（ORM）框架库。速度快、体积小
 如果多次新建LiteOrm实例，系统会提示你应该关闭之前的数据库，也可能会引起其他未知错误。
 
 gradle依赖：
-        implementation 'com.github.fanxin378184809:LiteOrmGithub:1.0.0'
+        implementation 'com.github.fanxin378184809:LiteOrmGithub:1.0.2'
 	
 单例模式：
 ```
