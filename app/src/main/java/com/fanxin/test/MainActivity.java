@@ -1,8 +1,9 @@
 package com.fanxin.test;
 
 import android.os.Environment;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.github.fanxin.liteorm.LiteOrmUtil;
 
